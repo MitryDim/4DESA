@@ -1,0 +1,24 @@
+{
+  "name": "socialmediaapi",
+  "version": "1.0.0",
+  "description": "Social Media API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitryDim/4DESA.git"
+  },
+  "author": "Laîne Valentin & Corbet Dimitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitryDim/4DESA/issues"
+  },
+  "homepage": "https://github.com/MitryDim/4DESA#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2"
+  }
+}
